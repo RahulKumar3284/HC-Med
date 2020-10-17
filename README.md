@@ -1,2 +1,2 @@
-# Health_Centre_Management_System
+# Health_Centre_Medicine_And_Appointment_Management_System
  
